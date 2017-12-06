@@ -1,2 +1,2 @@
 # TestGitHub
-GitHub Tutorial 
+Test GibHub is a repository for showing the bare minimum of github and how to maneuver, function etc.
